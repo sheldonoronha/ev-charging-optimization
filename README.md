@@ -51,13 +51,13 @@ EV_Charging_Optimization/
 ## Getting Started
 ### Installation
 ```bash
-  git clone https://github.com/yourusername/EV_Charging_Optimization.git
+  git clone https://github.com/susank-aryl/EV_Charging_Optimization.git
   cd EV_Charging_Optimization
   pip install -r requirements.txt
 ```
 
 ### Usage
-Run Monte Carlo simulation:
+<!-- Run Monte Carlo simulation:
 ```bash
   python scripts/run_monte_carlo.py
 ```
@@ -68,7 +68,7 @@ Train RL model:
 Evaluate results:
 ```bash
   python scripts/run_evaluation.py
-```
+``` -->
 
 ## License
 MIT License.

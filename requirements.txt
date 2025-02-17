@@ -6,3 +6,11 @@ numpy
 pandas
 matplotlib
 scipy
+pyxlsb
+shapely
+folium
+pykml
+openpyxl
+matplotlib 
+mapclassify
+fiona

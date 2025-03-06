@@ -1,5 +1,5 @@
 # List of required Python libraries
-python
+#python
 torch
 tensorflow
 numpy

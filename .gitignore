@@ -3,3 +3,4 @@ data/raw/Ontario_Road_Network_*.kmz
 notebooks/ev_charging_ontario.html
 notebooks/geojsopn_map_with_centroids.htmldata/raw/*.shp
 notebooks/04_vector_space_optimizationf.ipynb
+data/raw/pop_data/*
